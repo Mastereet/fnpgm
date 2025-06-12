@@ -1,0 +1,13 @@
+build/
+.vscode/
+docs/
+data/
+
+# ignore binary files and intermedinate files generated during compliation
+*.a
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
